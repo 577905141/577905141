@@ -1,16 +1,56 @@
-## Hi there 👋
+# Hi, I'm George👋
 
-<!--
-**577905141/577905141** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Computer Science Student | AI & Automation | Software Development
 
-Here are some ideas to get you started:
+I'm a Computer Science student at Brigham Young University–Idaho interested in
+software development, AI automation, game development, and building practical
+tools that solve real problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I'm Working On
+
+- 🤖 AI & automation projects
+- 💻 Software development with Python, C#, and GDScript
+- 🎮 Game development with Godot
+- 🌐 Web development and personal projects
+- 🧠 Exploring AI-assisted development and workflow automation
+
+### 🛠️ Technologies
+
+**Languages**
+- Python
+- C#
+- GDScript
+- JavaScript
+- HTML/CSS
+
+**Tools & Technologies**
+- Git & GitHub
+- Godot
+- Unity
+- VS Code
+- AI / LLM tools
+- Automation
+
+### 📌 Featured Projects
+
+- 🎮 **Game Development** — 2D game projects built with Godot
+- 🤖 **AI & Automation** — Experiments with AI-powered workflows and automation
+- 🌐 **Web Development** — Websites and web-based projects
+
+### 📚 Currently Learning
+
+- Data Structures & Algorithms
+- Software Engineering
+- AI & Automation
+- Game Development
+- Web Development
+
+### 📫 Connect With Me
+
+- 💼 [LinkedIn](YOUR_LINKEDIN_URL)
+- 🌐 [Portfolio](YOUR_PORTFOLIO_URL)
+- 📧 Email: YOUR_EMAIL
+
+---
+
+⭐ Feel free to explore my repositories and projects!
