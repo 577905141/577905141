@@ -49,7 +49,7 @@ tools that solve real problems.
 
 - 💼 [LinkedIn](YOUR_LINKEDIN_URL)
 - 🌐 [Portfolio](YOUR_PORTFOLIO_URL)
-- 📧 Email: YOUR_EMAIL
+- 📧 Email: g34574321@gmail.com
 
 ---
 
